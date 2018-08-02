@@ -15,16 +15,10 @@ Special: motion + A/B/C
         [2]8X (charge down > up)
         3*X (press X three times/mash X)
 
-Meter System:
-Starts in the middle at round start, carries between rounds but rounded down to closest block
-Pushes closer to opponent as you hit them, far more for hit than block
-Supers/Cancels pull meter closer to your side
-If meter reaches opponent, their meter is locked for the round
-
 Presentation:
 Music: Trance
 SFX: I have no idea
-Graphics: Sprites or 3D depending on the platform
+Graphics: 16-bit Sprites
 
 Engine Requirements:
 Accurate and fast collision
